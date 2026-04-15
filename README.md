@@ -1,6 +1,6 @@
-
 ### "Emotion_Of_Palette_Music"
 
+# Emotion Of Palette Music
 
 "멜론" (1990 ~ 2010)년의 연도별 차트의 자료를 수집하여 가사, 감정을 분석하여 음악을 추천해주는 프로젝트.
 
