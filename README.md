@@ -1,4 +1,4 @@
-Emotion Of Palette Music
+# Emotion Of Palette Music
 🎵 Emotion Of Palette Music
 
 1990 ~ 2010년 멜론 연도별 차트 데이터를 기반으로
