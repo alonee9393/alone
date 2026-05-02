@@ -1,6 +1,11 @@
 # Emotion Of Palette Music
 🎵 Emotion Of Palette Music
 
+
+**이 프로젝트는 국비 교육과정, "플레이데이터 데이터엔지니어링 과정을 통해 진행한**
+**최종프로젝트입니다.**
+**원본은 https://github.com/pladata-encore/DE33-Final-2Team 입니다.**
+
 1990 ~ 2010년 멜론 연도별 차트 데이터를 기반으로
 가사 감정 분석을 통해 사용자 감정에 맞는 음악을 추천하는 서비스입니다.
 
